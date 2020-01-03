@@ -1,0 +1,18 @@
+{
+  "logs": [
+    {
+      "message": "Setup a new device on Workstation 005",
+      "attention": false,
+      "tech": "Apurv \n        Samant",
+      "date": "2020-01-03T18:08:31.636Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Apurv",
+      "lastName": "Samant"
+    }
+  ]
+}
